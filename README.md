@@ -1,2 +1,2 @@
 # Learning-VueJS
-Repo untuk belajar Vue JS dengan panduan/tutorial dari Wahidev Academy
+Repo untuk belajar Vue JS dengan mengikuti tutorial dari Wahidev Academy
